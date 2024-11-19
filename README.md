@@ -39,6 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" style="margin-right: 10px;" />
