@@ -1,16 +1,47 @@
-## Hi there 👋
+### Frontend
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
-<!--
-**ThisChirag/ThisChirag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend and Databases
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
-Here are some ideas to get you started:
+### DevOps & Cloud Champion
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Code Sorcery
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+</div>
+
+### Tools & Operating Systems
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=apple" alt="Macos" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="40" height="40" style="margin-right: 10px;" /> 
+</div>
