@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 ### DevOps & Cloud Champion
