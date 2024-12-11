@@ -49,3 +49,8 @@
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="40" height="40" style="margin-right: 10px;" /> 
 </div>
+
+##Typing Above Average #monkeytype-https://monkeytype.com/profile/ThisChirag
+<div>
+  ![Screenshot 2024-12-12 at 2 11 48 AM](https://github.com/user-attachments/assets/cca3c255-ff5e-4df4-bd0b-d57c78ceb86a)
+</div>
