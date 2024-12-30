@@ -23,7 +23,7 @@
 ### DevOps & Cloud Champion
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40" style="margin-right: 10px;" />  
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" style="margin-right: 10px;" />
 </div>
@@ -34,20 +34,6 @@
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 10px;" />
-</div>
-
-### Tools & Operating Systems
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=apple" alt="Macos" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="40" height="40" style="margin-right: 10px;" /> 
 </div>
 
 ### [Typing Keeps Me Cool](https://monkeytype.com/profile/ThisChirag)
